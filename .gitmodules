@@ -1,3 +1,9 @@
+<<<<<<< HEAD
  [submodule "themes/butterfly"]
   path = themes/butterfly
   url = https://github.com/jerryc127/hexo-theme-butterfly.git
+=======
+[submodule "themes/butterfly"]
+  path = themes/butterfly
+  url = https://github.com/yao-ck/yao-ck.github.io.git
+>>>>>>> 8b5e128852d0bcc20a449b1fa0618da7b9e0896e
