@@ -65,8 +65,7 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img:
-
+index_img: https://tse3-mm.cn.bing.net/th/id/OIP-C.4SPZVrcvZ-Tunx4G4FFtRAHaHa?w=165&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7
 # The banner image of archive page
 archive_img:
 
